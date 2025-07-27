@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkurai" alt="ashishkurai" /></a> </p>
 
-- 🌱 I’m currently learning **Selenium,Testg,Junit,React,Nodejs**
+- 🌱 I’m currently learning **Testg,Junit,Nodejs**
 
-- 💬 Ask me about **Selenium,React,Nodejs,MySql,JavaScript**
+- 💬 Ask me about **DSA,Selenium,React,MySql,JavaScript**
 
 - 📫 How to reach me **ashishkumarrai1809@gmail.com**
 

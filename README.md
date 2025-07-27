@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ashishkumarrai1809@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h1ZCC-T9gaWD5p7qE4yaG8CxYxSisHDv/view?usp=sharing](https://drive.google.com/file/d/1h1ZCC-T9gaWD5p7qE4yaG8CxYxSisHDv/view?usp=sharing)
+- 📄 RESUME LINK :- [https://drive.google.com/file/d/1h1ZCC-T9gaWD5p7qE4yaG8CxYxSisHDv/view?usp=sharing](https://drive.google.com/file/d/1h1ZCC-T9gaWD5p7qE4yaG8CxYxSisHDv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

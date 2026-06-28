@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkurai" alt="ashishkurai" /></a> </p>
 
-* 📊 I’m currently learning **Quantitative Finance, Financial Modeling, Statistics,  and Algorithmic Trading**
+* 📊 I’m currently learning **Quantitative Finance, Financial Modeling, Statistics, Algorithmic Trading, RAG and AI Agents**
 
 * 💡 Ask me about **Quantitative Analysis, DSA, C++, Python, SQL, Probability, Statistics, and Financial Markets**
 

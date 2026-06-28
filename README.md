@@ -7,13 +7,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkurai" alt="ashishkurai" /></a> </p>
 
-- 🌱 I’m currently learning **Testg,Junit,Nodejs**
+* 📊 I’m currently learning **Quantitative Finance, Financial Modeling, Statistics,  and Algorithmic Trading**
 
-- 💬 Ask me about **DSA,Selenium,React,MySql,JavaScript**
+* 💡 Ask me about **Quantitative Analysis, DSA, C++, Python, SQL, Probability, Statistics, and Financial Markets**
 
-- 📫 How to reach me **ashishkumarrai1809@gmail.com**
+* 📈 Interested in **Algorithmic Trading, Risk Management, Data Analysis, and Machine Learning for Finance**
 
-- 📄 RESUME LINK :- [https://drive.google.com/file/d/1h1ZCC-T9gaWD5p7qE4yaG8CxYxSisHDv/view?usp=sharing](https://drive.google.com/file/d/1h1ZCC-T9gaWD5p7qE4yaG8CxYxSisHDv/view?usp=sharing)
+* 📫 How to reach me **[ashishkumarrai1809@gmail.com](mailto:ashishkumarrai1809@gmail.com)**
+
 
 
 

@@ -43,9 +43,6 @@
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ASHISHKURAI&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ASHISHKURAI/ASHISHKURAI/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ASHISHKURAI&theme=tokyonight" width="48%" />

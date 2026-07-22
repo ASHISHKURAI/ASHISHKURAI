@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkurai" alt="ashishkurai" /></a> </p>
 
-* 📊 I’m currently learning **Quantitative Finance, Financial Modeling, Statistics, Algorithmic Trading, RAG and AI Agents**
-
-* 💡 Ask me about **Quantitative Analysis, DSA, C++, Python, SQL, Probability, Statistics, and Financial Markets**
-
-* 📈 Interested in **Algorithmic Trading, Risk Management, Data Analysis, and Machine Learning for Finance**
+📚 I'm currently learning Advanced Automation Frameworks, AI-assisted Test Automation, Docker
+💡 Ask me about Manual Testing, Automation Testing, Java, Playwright, Selenium, API Testing, SQL, TestNG, Appium, and Software Testing Fundamentals
+🚀 Interested in SDET, Test Automation Frameworks, DevOps, AI-powered Testing, and Scalable Quality Engineering
 
 * 📫 How to reach me **[ashishkumarrai1809@gmail.com](mailto:ashishkumarrai1809@gmail.com)**
 

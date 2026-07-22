@@ -38,9 +38,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASHISHKURAI&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASHISHKURAI&theme=tokyonight" width="100%" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ASHISHKURAI&theme=tokyonight&hide_border=true"/>
